@@ -35,6 +35,7 @@ Learning order
 
 
 Skill = learning plan + discipline (dedication, patience, deliberate practice) 
+
 Roadmap:
 1. Set Clear Goals:
     1. Physical
@@ -43,7 +44,7 @@ Roadmap:
     2. Mental
         1. Health & Skills: Emotional and Psychological Well-being, Resilience, Self-esteem, Self-awareness, Problem-solving
     3. Social
-        1. Health & Skills: Social Support, Communication Skills, Interpersonal Relationships, Empathy and Compassion, Conflict Resolution Skills, Social Responsibility
+        1. Health & Skills: Social Support, Communication Skills, Interpersonal Relationships, Empathy and Compassion, Conflict Resolution, Social Responsibility
     4. Intellectual
         1. Health: Critical Thinking, Lifelong Learning, Creativity, Curiosity, Open-mindedness, Problem-solving, Information Literacy, Self-reflection, Intellectual Humility
         2. Skills:
