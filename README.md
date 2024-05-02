@@ -7,14 +7,14 @@
     2. Mental
         1. Health: Emotional and Psychological Well-being, Resilience
         2. Skills: Problem-solving, Communication Skills, Interpersonal Relationships
-    4. Intellectual
+    3. Intellectual
         1. Health: Critical Thinking, Open-mindedness, Information Literacy
         2. Skills:
             1. General knowledges
                1. Human Language
                    1. English
                    2. Russian
-            3. Software Engineering
+            2. Software Engineering
                 1. Fundamentals
                     1. OS
                         1. Linux (+ Git)
